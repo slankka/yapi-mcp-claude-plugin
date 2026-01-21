@@ -4,7 +4,7 @@ This repo is a claude code plugin within yapi-mcp-server to understanding api do
 
 rename the folder to 'yapi-mcp-plugin' if you like.
 
-This project is not finished yet. basically these command/skills work, currently those are enough for MCP to query and understanding you Yapi interface.
+This project is not finished yet. basically these command/skills work, currently those are enough for MCP to query and understanding your Yapi api.
 - get_project
 - get_cat_menu
 - list_cat
