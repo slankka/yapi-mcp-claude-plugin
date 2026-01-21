@@ -41,7 +41,9 @@ claude mcp add -transport stdio yapi-mcp-server \
 ```
 
 ## Providing MCP server to Claude Code
-```
+create .mcp.json with contents below. for more details, see documents.
+
+```json
 {
   "yapi-mcp-server": {
     "command": "node",
