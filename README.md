@@ -1,5 +1,7 @@
 ## yapi-mcp-claude-plugin
 
+This repo is a claude code plugin within yapi-mcp-server to understanding api documents from https://github.com/YMFE/yapi.
+
 rename the folder to 'yapi-mcp-plugin' if you like.
 
 This project is not finished yet. basically these command/skills work, currently those are enough for MCP to query and understanding you Yapi interface.
